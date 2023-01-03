@@ -12,7 +12,8 @@
         "System.Reactive.dll",
         "System.Runtime.CompilerServices.Unsafe.dll",
         "System.Text.Json.dll",
-        "System.Text.Encodings.Web.dll"
+        "System.Text.Encodings.Web.dll",
+        "System.Memory.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
